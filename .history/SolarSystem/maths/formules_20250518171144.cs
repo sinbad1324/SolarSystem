@@ -1,4 +1,0 @@
-namespace SolarSystem.Maths
-{
-    pub
-}
