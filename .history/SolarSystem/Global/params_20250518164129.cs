@@ -1,0 +1,7 @@
+namespace SolarSystem.Globals
+{
+    public abstract class GParams
+    {
+        public const int WINDOW_W = 20; 
+    }
+}

@@ -1,0 +1,4 @@
+namespace SolarSystem.Globals
+{
+    ca
+}
